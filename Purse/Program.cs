@@ -10,7 +10,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
-            Money.Money m = new Money.Money();
+            Money.Money m = new Money.Money(); 
         }
     }
 }
