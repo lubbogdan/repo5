@@ -10,7 +10,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
-
+            CreditCard.Creadit creadit = new CreditCard.Creadit();
         }
     }
 }
