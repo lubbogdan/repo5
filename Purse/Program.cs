@@ -10,6 +10,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
+            CreditCard.Creadit creadit = new CreditCard.Creadit();
             Money.Money m = new Money.Money(); 
         }
     }
